@@ -1,3 +1,15 @@
+KNN Predictor using Binary Arrays of geometric features from a segmented image
+
+run with python main.py
+If you delete the csvs, the program will generate them
+To process the image with segmentation functions, uncomment the functions at the end of the script
+
+
+
+-----------------
+
+
+
 Predictor de clases KNN, basado en Arrays Binarios de caracteristicas geometricas de imagenes segmentadas
 Para correr, por favor utilice:
 
